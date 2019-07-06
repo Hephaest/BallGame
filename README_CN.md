@@ -12,7 +12,7 @@ Table of Contents
 [![JDK](https://img.shields.io/badge/JDK-8u202%20-orange.svg)](https://www.oracle.com/technetwork/java/javase/8u202-relnotes-5209339.html)
 [![Dependencies](https://img.shields.io/badge/Dependencies-up%20to%20date-green.svg)](https://github.com/Hephaest/BallGame/tree/master/src)
 
-中文 | [English](README.md)
+[English](README.md) | 中文
 
 最后一次更新于`2019/07/06`
 修复问题:
