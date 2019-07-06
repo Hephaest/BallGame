@@ -1,11 +1,11 @@
 目录
 =================
 * [Acknowledgement](#Acknowledgement)
-* [Game Demo](#Game Demo)
-* [The basic idea](#The basic idea)
-   * [球类](#球类)
-   * [事件监听器](#事件监听器)
-   * [GUI框架](#gui框架)
+* [Game Demo](#game-demo)
+* [The basic idea](#the-basic-idea)
+	* [The Ball Class](#the-ball-class)
+	* [Event Listener](#event-listener)
+	* [GUI Framework](#gui-framework)
          
 # Balls' collision By Java GUI
 [![LICENSE](https://img.shields.io/cocoapods/l/AFNetworking.svg)](https://github.com/Hephaest/BallGame/blob/master/LICENSE)
