@@ -1,4 +1,4 @@
-目录
+Table of Contents
 =================
 * [感谢](#感谢)
 * [效果图](#效果图)
@@ -391,7 +391,7 @@ public class Listener extends MouseAdapter implements ActionListener,Runnable {
 
 ### GUI框架 ##
 - 需要文本框实现输入，两行，每行3个变量。
-- 需要5个按钮，分别代表 "Play"、"Stop"、"Reset"、"Continue"、"Clear"。
+- 需要5个按钮，分别代表 `Play`、`Stop`、`Reset`、`Continue`、`Clear`。
 - 需要一个画布，可以显示出球类的动画。
 
 代码如下
