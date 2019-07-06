@@ -32,11 +32,11 @@ Thanks to Elaine! She inspired me by her original ball game code.
 # The basic idea
 To achieve ball movements, the following attributes are important:
 
-**1. What are the specific characteristics of a ball?**  
+**1. What are the specific characteristics of a ball?**<br>  
 Mass is under consideration due to kinetic energy theorem, besides, it also has its direction, size, location and current speed.<br>
-**2. Who can initialize the state of the ball?**
+**2. Who can initialize the state of the ball?**<br>
 There are 2 states:(random) default value, manual manual input.<br>
-**3. Who can control the movement of the ball?**
+**3. Who can control the movement of the ball?**<br>
 A ball should follow a certain instruction, simple as a mouse click. in addition, a more complicated instructions can be achieved by using buttons.<br>
 
 According to above analysis, we can create several class: a ball class to describe the state of the ball, a class to control all commands, including a window and options. We can divide the functionality of these into three classes:
