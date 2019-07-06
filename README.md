@@ -2,7 +2,7 @@
 =================
 * [Acknowledgement](#Acknowledgement)
 * [Game Demo](#game-demo)
-* [The basic idea](#the-basic-idea)
+* [The Basic Idea](#the-basic-idea)
 	* [The Ball Class](#the-ball-class)
 	* [Event Listener](#event-listener)
 	* [GUI Framework](#gui-framework)
@@ -29,7 +29,7 @@ Thanks to Elaine! She inspired me by her original ball game code.
 # Game Demo
 <p align="center"><img src="images/ballGame.gif"></p>
 
-# The basic idea
+# The Basic Idea
 To achieve ball movements, the following attributes are important:
 
 **1. What are the specific characteristics of a ball?**<br>
