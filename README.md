@@ -14,7 +14,8 @@
 
 English | [中文](README_CN.md)
 
-Last updated on `2019/07/06`<br>
+Last updated on `2019/07/06`
+
 Bug fixes:
 - Error input without warning
 - Graphic overlap issues
