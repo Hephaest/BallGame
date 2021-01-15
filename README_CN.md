@@ -10,7 +10,6 @@ Table of Contents
 # Java 实现小球碰撞GUI
 [![LICENSE](https://img.shields.io/cocoapods/l/AFNetworking.svg)](https://github.com/Hephaest/BallGame/blob/master/LICENSE)
 [![JDK](https://img.shields.io/badge/JDK-8u202%20-orange.svg)](https://www.oracle.com/technetwork/java/javase/8u202-relnotes-5209339.html)
-[![Dependencies](https://img.shields.io/badge/Dependencies-up%20to%20date-green.svg)](https://github.com/Hephaest/BallGame/tree/master/src)
 
 [English](README.md) | 中文
 
